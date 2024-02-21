@@ -23,3 +23,7 @@ ul: .odd {
 ul:.odd .fi {
 	font-size: 22px;
 }
+ul:.odd .pi {
+	background-color: pink;
+}
+
