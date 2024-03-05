@@ -12,14 +12,21 @@ p:second-child {
 p:last-child {
 	color: red;
 }
-ul: li {
+ul li {
 	background-color: grey;
 	width: 50%;
 	padding: 10px;
 }
-ul: .odd {
+ul .odd{
 	background-color: white;
 }
+ul .odd.fli {
+	font-size: 22px;
+}
+ul #pink {
+	background-color: pink;
+}
+/*
 ul:.odd .fi {
 	font-size: 22px;
 }
